@@ -55,6 +55,13 @@ Place to jot notes on talk topics
   - why is it so great
   - downfalls
   - how to get started
+  
+  
+* Intro to Haskell
+
+* Build a DSL in Haskell
+
+* Build a LISP interpreter
  
 
 
