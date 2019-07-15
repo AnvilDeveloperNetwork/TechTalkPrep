@@ -43,7 +43,7 @@ Place to jot notes on talk topics
   - Do a full rebuild
 
 * We should have stuck with LISP
-  - Explain why LISPs were abondoned
+  - Explain why LISPs were abandoned
   - What were the perks of LISP
   - Is it making a come back with clojure?
 
